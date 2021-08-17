@@ -1,0 +1,7 @@
+{
+"user":"tomsmith",
+"password":"SuperSecretPassword!",
+"userInvalid":"Your username is invalid!",
+"loginCorrect": "You logged into a secure area!",
+"passInvalid": " Your password is invalid!"
+}

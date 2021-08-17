@@ -1,0 +1,8 @@
+{
+  "baseUrl":"http://the-internet.herokuapp.com",
+  "testFiles": "**/*.feature",
+  "reporter": "junit",
+  "reporterOptions": {
+      "mochaFile": "test/results/e2e-tests-[hash].xml"
+  }
+}
